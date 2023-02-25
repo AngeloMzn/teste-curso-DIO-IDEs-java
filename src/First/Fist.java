@@ -6,7 +6,7 @@ public class Fist {
 		Cat cat = new Cat();
 		
 		System.out.println(cat);
-
+		System.out.println("Hello, World !!");
 	}
 
 }
